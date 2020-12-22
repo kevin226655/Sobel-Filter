@@ -1,9 +1,5 @@
 # Sobel Filter
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
-This is a template github repository for hls projects with credits >3.
-
 **Directory structure**
 * **README.md** - introduce the project, algorithm, reference ....
 * **code/**
