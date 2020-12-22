@@ -15,13 +15,7 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-* [Usage](#usage)
 * [Algorithm](#Algorithm)
-* [References](#References)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
 
 
 
@@ -40,27 +34,5 @@ This is a template github repository for hls projects with credits >3.
 * **script/** - makefile
   * ... - Build process shall include a trial-run with result check. 
 * **impl/** - result of the implementation, only the metafile, and report, e.g. vitis summary file, HLS csynth report
-      
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-* build process
 
 ## Algorithm
-
-
-## References
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-
-
-<!-- LICENSE -->
-## License
-
-
-
-<!-- CONTACT -->
-## Contact
