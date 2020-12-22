@@ -1,24 +1,5 @@
 # Sobel Filter
 
-
-
-<br />
-<p align="center">
-
-  <h3 align="center">MSOC-HLS project github template</h3>
-  
-</p>
-
-
-
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-* [About the Project](#about-the-project)
-* [Algorithm](#Algorithm)
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 This is a template github repository for hls projects with credits >3.
@@ -34,5 +15,3 @@ This is a template github repository for hls projects with credits >3.
 * **script/** - makefile
   * ... - Build process shall include a trial-run with result check. 
 * **impl/** - result of the implementation, only the metafile, and report, e.g. vitis summary file, HLS csynth report
-
-## Algorithm
